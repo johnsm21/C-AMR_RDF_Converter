@@ -7,11 +7,11 @@ python
 pip
 
 ## Installation
-''' bash
+``` bash
 pip install -r requirements.txt
-'''
+```
 
 ## Run
-''' bash
+``` bash
 python camr-converter.py camrFile
-'''
+```
